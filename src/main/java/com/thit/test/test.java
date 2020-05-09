@@ -6,6 +6,6 @@ package com.thit.test;
  */
 public class test {
     public static void main(String[] args) {
-        System.out.println("mastet1");
+        System.out.println("test环境");
     }
 }
